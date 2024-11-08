@@ -8,10 +8,10 @@
 		<value>101</value>
 		</property>
 	<property name="sname">
-		<value>Rohan Agarkar</value>
+		<value>Najibah Shaikh</value>
 	</property>
 	<property name="saddress">
-		<value>Shreekunj Heights, Manjalpur, Vadodara</value>
+		<value>Palm residency, Vadodara</value>
 	</property>
 </bean>
 </beans>
